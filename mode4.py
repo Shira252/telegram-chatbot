@@ -36,6 +36,13 @@ def quick(message):
 
     return response["answer"]
 
+def search1(message):
+    aString = ""
+    for i in search(message):
+        if i !=",":
+            aString = aString + i
+    return aString
+
 def recommend(message):
     url = "https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/food/wine/recommendation"
 
