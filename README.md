@@ -10,4 +10,4 @@ API:
 
 Receipe - Food - Nutrition API which I find in Rapid API Market
 
-Finally, thanks for professor Fan Zhang and my group members, I have done this project with their help.
+Finally, thanks for professor Fan Zhang and my group members.
